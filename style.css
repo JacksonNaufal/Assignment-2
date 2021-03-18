@@ -51,19 +51,18 @@
   text-align: center;
 }
 
-.button{
+.button {
   text-align: center;
 }
 
 #gallery {
-   border: 2px solid black; 
+   border: 2px solid black;
    background-color: lightgrey;
 }
 
 #timeline {
-   border: 2px solid black; 
+   border: 2px solid black;
    background-color: lightgrey;
-   
 }
 
 #home {
@@ -76,7 +75,7 @@
   height: 250px;
 }
 
-.image4 { 
+.image4 {
   width: 250px;
   height: 250px;
 }
@@ -85,4 +84,3 @@
   width: 250px;
   height: 250px;
 }
-
