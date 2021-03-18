@@ -1,9 +1,13 @@
 .image1 {
   border: 5px solid black;
+  float: left;
+  width: 22%;
 }
 
 .image2 {
   border: 5px solid black;
+  float: right; 
+  width: 25%; 
 }
 
 .subscript1 {
@@ -12,7 +16,8 @@
 
 .quote {
   font-size: 150%;
-  font-weight: bold;
+  font-weight: bold; 
+  text-align: center;
 }
 
 .stevejobs {
@@ -20,10 +25,37 @@
   margin-left: auto;
   margin-right: auto;
   border: 5px solid black;
+  height:150px;
+  width:150px;
 }
 
 .para1 {
   padding: 10px;
   border: 1px solid black;
   background-color: darkgray;
+  font-size: 125%; 
+  font-family: 'Times New Roman', Times, serif; 
+  text-align: center; 
 }
+
+.background {
+  background-color: lightgrey; 
+}
+
+.head {
+  font-size: 150%; 
+  text-align: center; 
+}
+
+.name {
+  text-align: center; 
+}
+
+
+.button {
+  text-align:center;
+  
+}
+
+
+
