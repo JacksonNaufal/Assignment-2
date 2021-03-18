@@ -2,12 +2,10 @@ document.getElementById('gallery').addEventListener('click', gallery)
 document.getElementById('timeline').addEventListener('click', timeline)
 document.getElementById('home').addEventListener('click', home)
 
-
-
 function gallery () {
   let answer = confirm ('Press OK to Continue to Gallery')
-  if (answer)
-  window.location = 'https://assignment-2.jacksonnaufal.repl.co/Gallery.html'
+  if (asnwer)
+  window.location = 'https://assignment-2.jacksonnaufal.repl.co/'
 }
 
 function timeline () {
