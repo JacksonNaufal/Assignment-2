@@ -7,7 +7,7 @@ function facts () {
   answer = confirm('Press OK to Continue to Fun Facts')
   if (answer) {
     window.location = 'https://assignment-2.jacksonnaufal.repl.co/facts.html'
-}
+  }
 }
 
 function timeline () {
