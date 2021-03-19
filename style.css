@@ -70,17 +70,11 @@
   background-color: lightgrey;
 }
 
-.image3 {
-  width: 250px;
+.colosuss {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border: 5px solid black;
   height: 250px;
-}
-
-.image4 {
-  width: 250px;
-  height: 250px;
-}
-
-.image5 {
-  width: 250px;
-  height: 250px;
+  width: 500px;
 }
