@@ -2,7 +2,7 @@ document.getElementById('facts').addEventListener('click', facts)
 document.getElementById('timeline').addEventListener('click', timeline)
 document.getElementById('home').addEventListener('click', home)
 let answer
-// The let answer, allows answer to be determind, and the event listers ontop of the Let statement, allow the JS to locate the information it needs to gather from the regular HTML Document.
+// The let answer, allows answer to be determined, and the event listers on top of the Let statement, allow the JS to locate the information it needs to gather from the regular HTML Document.
 
 function facts () {
   answer = confirm('Press OK to Continue to Fun Facts')
