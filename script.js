@@ -25,4 +25,4 @@ function home () {
   }
 }
 
-// These 3 functions are rather similar, they all do the same thing, the only difference is the names, what button, and the link. Basically, they say that if the answer is confirm, which is ok on the alert, it will directly take you to the window location link, that is defined on line 10, 17, and 24. Finally, these are also linked sepreatly to there own eventlistener, which allows it to find any information it needs from the HTML, though id's
+// These 3 functions are rather similar, they all do the same thing, the only difference is the names, what button, and the link. Basically, they say that if the answer is confirm, which is ok on the alert, it will directly take you to the window location link, that is defined on line 10, 17, and 24. Finally, these are also linked separately to there own event listener, which allows it to find any information it needs from the HTML, though id's
